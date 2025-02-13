@@ -1,0 +1,9 @@
+.main{
+    background: url(../img/main_bg.png) no-repeat center top;
+}
+.main .link{
+    display: block;
+    width: 1200px;
+    height: 440px;
+    margin: 8px auto 12px;
+}
